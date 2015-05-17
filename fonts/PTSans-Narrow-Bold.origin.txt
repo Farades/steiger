@@ -1,0 +1,3 @@
+Uri: http://steiger.el-card.ru/fonts/PTSans-Narrow-Bold.svg
+File Name: D:\workspace\steiger\steiger.el-card.ru\fonts\PTSans-Narrow-Bold.svg
+Content Type: image/svg+xml

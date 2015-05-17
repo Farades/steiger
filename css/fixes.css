@@ -1,0 +1,40 @@
+
+ul { //border: 1px dotted #700e22; } 
+li { //border: 1px solid #077386; }
+div { //border: 1px dashed #b0b0b0; }
+table{ //border: 1px solid #aab06d; }
+td { //border: 1px solid #043e9d; }
+span { //border: 1px solid #00ffff; }
+img { //border: 1px solid #ff00ff; margin: 0; padding: 0; }
+
+
+
+.spacer_10 {
+	height: 10px;
+}
+
+.spacer_20 {
+	height: 20px;
+}
+
+.spacer_30 {
+	height: 30px;
+}
+
+.spacer_img{
+	height: 30px;
+	background: url('images/spacer_bg.png') center no-repeat;
+}
+
+/*
+::selection {
+  background: #4e942b; 
+}
+::-moz-selection {
+  background: #4e942b; 
+}
+*/
+
+.upd{
+	font-size: 36px !important; 
+}

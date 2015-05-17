@@ -1,0 +1,3 @@
+Uri: http://steiger.el-card.ru/fonts/PTSans-Italic.svg
+File Name: D:\workspace\steiger\steiger.el-card.ru\fonts\PTSans-Italic.svg
+Content Type: image/svg+xml
