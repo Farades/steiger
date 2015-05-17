@@ -8,8 +8,8 @@ a {
 
 #header{
 	background: #f0f0f0;
+	background-image: linear-gradient(#f0f0f0, #fdfdfd, #f0f0f0);
 	height: 57px;
-
 }
 
 #header_container{
@@ -69,11 +69,11 @@ a {
 	height: 80px;
 }
 
-#logo{
+.header-logo{
 	float: left;
 }
 
-#slogan{
+.slogan{
 	float: left;
 	font-family: "PT Sans Narrow";
 	font-size: 17px;
@@ -87,31 +87,113 @@ a {
 	float: left;
 	margin-left: 165px;
 	margin-top: 18px;
-}
-
-#menu ul{
 	list-style: none;
 	font-family: "PT Sans Narrow";
 	text-transform: uppercase;
 	font-size: 16px;	
 }
 
-#menu li{
-	float: left;
+#menu li.menu_spacer{
+	width: 1px;
+	height: 38px;
+	background: url('../images/v_line_bg.png') center repeat-y;
+	padding: 0;
 }
 
-#menu li a{
+#menu>li {
+	float: left;
+	position: relative;
+	z-index: 999;
+	padding: 10px;
+}
+
+#menu>li>a {
 	text-decoration: underline;
 }
 
-#menu li.menu_spacer{
-	width: 20px;
-	height: 38px;
-	background: url('../images/v_line_bg.png') center repeat-y;
+#menu li.parrent {
+	width: 120px;
+	text-align: center;
+
 }
 
-#menu li.menu_not_spacer{
-	margin-top: 9px;
+#menu>li:hover {
+	background-color: #418645;
+	background-image: linear-gradient(#1A7525, #418645, #1A7525);
+}
+
+#menu>li:hover a {
+	color: #fff;
+}
+
+#menu>li>ul { 
+	position: absolute;
+	top: 40px;
+	left: 0;
+	width: 140px;
+	-webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+#menu>li>ul>li {
+	text-align: center;
+	vertical-align: middle;
+	background-color: #418645;
+	background-image: linear-gradient(#1A7525, #418645, #1A7525);
+	height: 95px;
+	border-bottom: 3px solid #2FA636;
+	position: relative;
+}
+
+#menu li ul {
+	display: none;
+	list-style: none;
+}
+
+#menu li ul .last {
+	border-bottom: none;
+}
+
+#menu li li a {
+	color: #000;
+	font-size: 18px;
+}
+
+.active a {
+	color: #fff;
+}
+
+#menu li li.active {
+	background-color: #bf1a1e;
+	background-image: linear-gradient(#bf1a1e, #FFA5A5, #bf1a1e);
+}
+
+#menu li li.active>a {
+	color: #fff;
+}
+
+#menu li ul a {
+	display: block;
+	height: 100%;
+}
+
+#menu>li>ul>li>ul {
+	border-right: 5px solid rgba(1,1,1,0);
+	position: absolute;
+	left: -125px;
+	top: 0;
+}
+
+#menu>li>ul>li>ul>li {
+	background-color: #418645;
+	background-image: linear-gradient(#1A7525, #418645, #1A7525);
+	border-bottom: 3px solid #2FA636;
+	padding: 10px 0;
+	width: 120px;
+	-webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
 }
 
 .search{
@@ -522,9 +604,6 @@ a {
 
 .feedback-form form input[type="submit"] {
 	border: 1px solid #fff;
-	//-webkit-box-shadow: 0px 1px 3px #ccc;
-	//-moz-box-shadow: 0px 1px 3px #ccc;
-	//box-shadow: 0px 1px 3px #ccc;
 	background: #418645;
 	padding: 10px 20px 10px 20px;
 	width: 100%;
@@ -533,6 +612,7 @@ a {
 	font-family: "PTSansNarrowBold";
 	text-shadow: 1px 1px 1px #000;
 	font-size: 26px;
+	cursor: pointer;
 }
 
 .feedback-form form input[type="submit"]:hover {
@@ -545,17 +625,29 @@ a {
 	background: #f0f0f0;
 }
 
+.footer_wrap {
+	background: #f0f0f0;
+	background-image: linear-gradient(#f0f0f0, #fdfdfd, #f0f0f0);
+	padding: 20px 0;
+}
+
 #footer{
 	margin: 0 auto;
 	width: 960px;
-	margin-top: 20px;
 	color: #b6b6b6;
 }
 
+.footer-logo {
+	float: left;
+}
+
+#footer .slogan {
+	font-size: 24px;
+}
 
 #footer_menu{
 	float: left;
-	margin-left: 260px;
+	margin-left: 170px;
 	margin-top: 18px;
 }
 
@@ -570,30 +662,48 @@ a {
 	float: left;
 }
 
-li.menu_not_spacer{
+#footer_menu li a{
+	color: #848484;	
+}
+
+#footer_menu li a:hover{
+	color: #bf1a1e;	
+}
+
+#footer_menu li.menu_spacer{
+	width: 20px;
+	height: 38px;
+	background: url('../images/v_line_bg.png') center repeat-y;
+}
+
+#footer_menu li.menu_not_spacer{
 	margin-top: 9px;
 }
 
-#footer_socials{
-	font-family: "PT Sans Regular";
+#footer_socials {
 	font-size: 22px;	
 	float: right;
 	margin-top: 26px; 
+	font-family: "PT Sans Regular";
 }
 
-a.header{
+#footer_socials a {
 	color: #000;
 }
 
-a.header:hover{
-	color: #bf1a1e;
+#footer_socials a:hover {
+	color: #c45052;
 }
 
-a.eng{
+#logo_menu_container a.header{
+	color: #000;
+}
+
+#logo_menu_container a.eng{
 	color: #bababa;	
 }
 
-a.eng:hover{
+#logo_menu_container a.eng:hover{
 	color: #bf1a1e;	
 }
 
