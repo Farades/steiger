@@ -1,4 +1,7 @@
 		</div>
+		<div class="page-buffer"></div>
+	</div>
+	<div id="main_footer_wrap">
 		<div id="feedback_container">
 			<div class="feedback-contacts">
 				<p class="write_to_us">Напишите нам!</p>
@@ -30,30 +33,29 @@
 				</form>
 			</div>
 		</div>
-		<div class="page-buffer"></div>
-	</div>
 
-	<div class="footer_wrap">	
-		<div id="footer">
-			<div class="footer-logo"><img src="images/logo.jpg" alt="Лого"></div>
-			<div class="slogan">FIRSTTRADE</div>
-			<div id="footer_menu">
-				<ul>
-					<li class="menu_not_spacer"><a class="eng" href="#">О компании</a></li>
-					<li class="menu_spacer"></li>
-					<li class="menu_not_spacer"><a class="eng" href="#">Новости</a></li>
-					<li class="menu_spacer"></li>
-					<li class="menu_not_spacer"><a class="eng" href="#">Услуги</a></li>
-					<li class="menu_spacer"></li>
-					<li class="menu_not_spacer"><a class="eng" href="#">Наша продукция</a></li>
-					<div style="clear:both;"></div>					
-				</ul>
-			</div>
-			<div id="footer_socials">
-				<a href="https://facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>&nbsp;&nbsp;<a href="http://vk.com/club13050335" target="_blank"><i class="fa fa-vk"></i></a>&nbsp;&nbsp;<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter"></i></a>
-			</div>
-			<div style="clear: both;"></div>
-		</div>		
+		<div class="footer_wrap">	
+			<div id="footer">
+				<div class="footer-logo"><img src="images/logo.jpg" alt="Лого"></div>
+				<div class="slogan">FIRSTTRADE</div>
+				<div id="footer_menu">
+					<ul>
+						<li class="menu_not_spacer"><a class="eng" href="#">О компании</a></li>
+						<li class="menu_spacer"></li>
+						<li class="menu_not_spacer"><a class="eng" href="#">Новости</a></li>
+						<li class="menu_spacer"></li>
+						<li class="menu_not_spacer"><a class="eng" href="#">Услуги</a></li>
+						<li class="menu_spacer"></li>
+						<li class="menu_not_spacer"><a class="eng" href="#">Наша продукция</a></li>
+						<div style="clear:both;"></div>					
+					</ul>
+				</div>
+				<div id="footer_socials">
+					<a href="https://facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>&nbsp;&nbsp;<a href="http://vk.com/club13050335" target="_blank"><i class="fa fa-vk"></i></a>&nbsp;&nbsp;<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter"></i></a>
+				</div>
+				<div style="clear: both;"></div>
+			</div>		
+		</div>
 	</div>	
 	<script src="libs/jquery/jquery-2.0.3.min.js"></script>
 	<script src="http://api-maps.yandex.ru/2.1/?lang=ru_RU&amp;load=package.full" type="text/javascript"></script>
