@@ -1,5 +1,5 @@
 <?php
-	$title = "FIRSTTRADE - О компании";
+	$title = "FIRSTTRADE - Новости";
 	if($_SERVER["HTTP_X_PJAX"]): 
 		echo "<title>{$title}</title>";
 		include("dummy_content.php");

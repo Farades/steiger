@@ -1,1 +1,3 @@
-<p>О компании вся хуйня</p>
+<div id="main_container">
+	dwawadwadwad
+</div>

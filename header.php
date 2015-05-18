@@ -9,6 +9,7 @@
 	<link rel="stylesheet" href="css/fixes.css" type="text/css">
 	<link rel="stylesheet" href="css/reset.css" type="text/css">
 	<link rel="stylesheet" href="libs/font-awesome-4.2.0/css/font-awesome.min.css" />
+	<link rel="stylesheet" href="libs/animate/animate.css" />
 </head>
 
 <body>
@@ -18,7 +19,7 @@
 			<p>FIRSTTRADE</p>
 		</div>
 		<div id="loader">
-			<img src="images/load.GIF" alt="">
+			<img src="images/load.gif" alt="">
 		</div>
 	</div>
 	<div id="main_wrap">
@@ -34,19 +35,19 @@
 			</div>
 		</div>	
 		<div id="logo_menu_container">
-			<div class="header-logo"><a href="index.php" data-pjax='main_container'><img src="images/logo.jpg" alt="Лого"></a></div>
+			<div class="header-logo"><a href="index.php" data-pjax='pjax_container'><img src="images/logo.jpg" alt="Лого"></a></div>
 			<div class="slogan">Путь к высшей цели!</div>
 			<ul id="menu">
-				<li class="menu_not_spacer"><a class="header" href="company.php" data-pjax='main_container'>О компании</a></li>
+				<li class="menu_not_spacer"><a class="header" href="index.php" data-pjax='pjax_container'>Главная</a></li>
 				<li class="menu_spacer"></li>
-				<li class="menu_not_spacer"><a class="header" href="#">Новости</a></li>
+				<li class="menu_not_spacer"><a class="header" href="company.php" data-pjax='pjax_container'>О компании</a></li>
 				<li class="menu_spacer"></li>
-				<li class="menu_not_spacer"><a class="header" href="#">Услуги</a></li>
+				<li class="menu_not_spacer"><a class="header" href="news.php" data-pjax='pjax_container'>Новости</a></li>
 				<li class="menu_spacer"></li>
-				<li class="menu_not_spacer parrent"><a class="header" href="#">Наша продукция</a>
+				<li class="menu_not_spacer"><a class="header" href="services.php" data-pjax='pjax_container'>Услуги</a></li>
+				<li class="menu_spacer"></li>
+				<li class="menu_not_spacer parrent"><a class="header" href="products.php" data-pjax='pjax_container'>Наша продукция</a>
 					<ul>
-						<li>
-							Пиво
 							<ul>
 								<li>
 									<a>
@@ -98,13 +99,6 @@
 								</li>
 								<div style="clear: both;"></div>
 							</ul>
-						</li>
-						<li>
-							Вода
-						</li>
-						<li class="last">
-							Водка
-						</li>
 					</ul>
 				</li>											
 			</ul>

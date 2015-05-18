@@ -40,13 +40,13 @@
 				<div class="slogan">FIRSTTRADE</div>
 				<div id="footer_menu">
 					<ul>
-						<li class="menu_not_spacer"><a class="eng" href="#">О компании</a></li>
+						<li class="menu_not_spacer"><a class="eng" href="company.php" data-pjax='pjax_container'>О компании</a></li>
 						<li class="menu_spacer"></li>
-						<li class="menu_not_spacer"><a class="eng" href="#">Новости</a></li>
+						<li class="menu_not_spacer"><a class="eng" href="news.php" data-pjax='pjax_container'>Новости</a></li>
 						<li class="menu_spacer"></li>
-						<li class="menu_not_spacer"><a class="eng" href="#">Услуги</a></li>
+						<li class="menu_not_spacer"><a class="eng" href="services.php" data-pjax='pjax_container'>Услуги</a></li>
 						<li class="menu_spacer"></li>
-						<li class="menu_not_spacer"><a class="eng" href="#">Наша продукция</a></li>
+						<li class="menu_not_spacer"><a class="eng" href="products.php" data-pjax='pjax_container'>Наша продукция</a></li>
 						<div style="clear:both;"></div>					
 					</ul>
 				</div>
@@ -90,6 +90,13 @@
 			        $spinner   = $preloader.find('#loader');
 			    $spinner.fadeOut();
 			    $preloader.delay(350).fadeOut('slow');
+    	        setTimeout(function(){
+					$(".company").addClass('animated rotateInDownLeft');
+					$(".philosophy").addClass('animated rotateInDownRight');
+					$(".news").addClass('animated slideInLeft');
+					$(".distributors").addClass('animated zoomIn');
+					$(".shares").addClass('animated slideInRight');
+			    }, 450);
 			})
 		});
 		$(window).on('load', function () {
@@ -97,6 +104,13 @@
 		        $spinner   = $preloader.find('#loader');
 		    $spinner.fadeOut();
 		    $preloader.delay(350).fadeOut('slow');
+	        setTimeout(function(){
+				$(".company").addClass('animated rotateInDownLeft');
+				$(".philosophy").addClass('animated rotateInDownRight');
+				$(".news").addClass('animated slideInLeft');
+				$(".distributors").addClass('animated zoomIn');
+				$(".shares").addClass('animated slideInRight');
+		    }, 450);
 		});
 	</script>
 </body>
