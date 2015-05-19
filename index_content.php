@@ -1,6 +1,8 @@
 <div id="main_container">
 	<div class="company">
 		<a href="company.php" data-pjax='pjax_container'>
+			<img class="crown" src="images/crown.png" alt="Корона">
+			<span class="descr">Долго. Дорого. Охуенно</span>
 			<p class="company-text">
 				Компания <span>"FIRSTTRADE"</span> специлизируются на рознично оптовой торговле пивом, напитками и продуктами питания.
 			</p>
@@ -9,6 +11,8 @@
 	</div>
 	<div class="philosophy">
 		<a href="philosophy.php" data-pjax='pjax_container'>
+			<img class="f_img" src="images/f_img.png" alt="Корона">
+			<span class="descr">Философия</span>
 			<p class="philosophy-title">
 				CERIUM VOTO PETE FINEM<br>
 				<span>(ставь себе ясные цели)</span>
@@ -25,7 +29,7 @@
 			<p class="last_new">
 				(25.07.2015)  Мы хотим и готовы зарабатывать вместе и с радостью ответим на все Ваши вопросы. 
 			</p>
-			<a class="all_news" href="#">Все новости</a>
+			<a class="all_news" href="news.php" data-pjax='pjax_container'>Все новости</a>
 			<div class="news-button"></div>
 		</a>
 	</div>
@@ -41,6 +45,8 @@
 	</div>
 	<div class="shares">
 		<a href="shares.php" data-pjax='pjax_container'>
+			<img class="heart_img" src="images/heart.png" alt="Корона">
+			<span class="descr">Акции</span>
 			<p class="shares-title">АКЦИЯ</p>
 			<p class="shares-desc-title">БОЛЬШИЕ СКИДКИ</p>
 			<p class="shares-desc">(до 9 мая 2015)  В честь праздника мы решили сделать недели скидок всем оптовым покупателям. Напишите нам через форму и наш специалист с Вами...</p>
