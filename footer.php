@@ -9,8 +9,8 @@
 				<div class="wave_bg_1"></div>
 				<div class="contacts">
 					<p class="address"><i class="fa fa-map-marker"></i>&nbsp;&nbsp;м. Маяковская, ул. Юлиуса Фучика 17/19<br>офис № 648 (в посольстве Словакии)</p>
-					<p class="phone"><a href="tel:+74959286827"><i class="fa fa-phone"></i>&nbsp;&nbsp;+7 (495) 928-68-27</a></p>
-					<p class="mail"><i class="fa fa-envelope-o">&nbsp;&nbsp;</i>example@mail.ru</p>
+					<p class="phone"><a href="tel:+74956448088"><i class="fa fa-phone"></i>&nbsp;&nbsp;+7 (495) 644-80-88</a></p>
+					<p class="mail"><i class="fa fa-envelope-o">&nbsp;&nbsp;</i>info@1-td.ru</p>
 				</div>
 				<div class="wave_bg_2"></div>
 			</div>

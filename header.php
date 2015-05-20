@@ -19,7 +19,7 @@
 			<p>FIRSTTRADE</p>
 		</div>
 		<div id="loader">
-			<img src="images/load.gif" alt="">
+			<img src="images/load.GIF" alt="">
 		</div>
 	</div>
 	<div id="main_wrap">
@@ -29,7 +29,7 @@
 					<a href="https://facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>&nbsp;&nbsp;<a href="http://vk.com/club13050335" target="_blank"><i class="fa fa-vk"></i></a>&nbsp;&nbsp;<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter"></i></a>
 				</div>
 				<div id="wave_1"></div>
-				<div id="phone"><a href="tel:+74959286827">(<img src="images/phone_icon.png" alt="">) +7 495 928-68-27</a></div>
+				<div id="phone"><a href="tel:+74956448088">(<img src="images/phone_icon.png" alt="">) +7 495 644-80-88</a></div>
 				<div id="wave_2"></div>
 				<div id="search"><input class="search" type="text" placeholder="поиск..."></div>
 			</div>
