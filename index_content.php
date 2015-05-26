@@ -2,7 +2,7 @@
 	<div class="company">
 		<a href="company.php" data-pjax='pjax_container'>
 			<img class="crown" src="images/crown.png" alt="Корона">
-			<span class="descr">Долго. Дорого. Охуенно</span>
+			<span class="descr">О компании</span>
 			<p class="company-text">
 				Компания <span>"FIRSTTRADE"</span> специлизируются на рознично оптовой торговле пивом, напитками и продуктами питания.
 			</p>

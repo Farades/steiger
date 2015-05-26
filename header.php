@@ -10,6 +10,7 @@
 	<link rel="stylesheet" href="css/reset.css" type="text/css">
 	<link rel="stylesheet" href="libs/font-awesome-4.2.0/css/font-awesome.min.css" />
 	<link rel="stylesheet" href="libs/animate/animate.css" />
+	<link rel="stylesheet" type="text/css" href="libs/slick/slick.css"/>
 </head>
 
 <body>

@@ -61,6 +61,47 @@
 	<script src="http://api-maps.yandex.ru/2.1/?lang=ru_RU&amp;load=package.full" type="text/javascript"></script>
 	<script src="libs/yamap/yamap.js"></script>
 	<script src="libs/pjax/jquery.pjax.js"></script>
+	<script type="text/javascript" src="libs/slick/slick.min.js"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			 $('.products-desc').slick({
+			  slidesToShow: 1,
+			  slidesToScroll: 1,
+			  arrows: false,
+			  asNavFor: '.prodcust-carousel-list'
+			});
+			$('.prodcust-carousel-list').slick({
+			  slidesToShow: 1,
+			  slidesToScroll: 1,
+			  asNavFor: '.products-desc',
+			  // dots: true,
+			  centerMode: true,
+			  variableWidth: true,
+			  focusOnSelect: true
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			 $('.steiger-history-desc').slick({
+			  slidesToShow: 1,
+			  slidesToScroll: 1,
+			  arrows: false,
+			  asNavFor: '.steiger-histiry-carousel'
+			});
+			$('.steiger-histiry-carousel').slick({
+			  slidesToShow: 1,
+			  slidesToScroll: 1,
+			  asNavFor: '.steiger-history-desc',
+			  // dots: true,
+			  centerMode: true,
+			  variableWidth: true,
+			  focusOnSelect: true,
+			});
+		});
+	</script>
 	<script type="text/javascript">
 		$(document).ready(function(){
 			$('#menu li').hover(function() {

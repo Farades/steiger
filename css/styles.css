@@ -891,6 +891,312 @@ body > #main_wrap {
 }
 
 
+
+.steiger-top {
+	width: 960px;
+	height: 203px;
+	background: url("../images/products/steiger_top_bg.jpg");
+	position: relative;
+}
+
+.steiger-top-desc {
+	position: absolute;
+	bottom: 30px;
+	right: 20px;
+	font-family: "PTSansItalic";
+	color: #fff;
+	width: 400px;
+	text-align: center;
+	font-size: 14px;
+}
+
+.prodcust-center .prodcust-carousel {
+	height: 230px;
+	margin-top: 30px;
+}
+
+.prodcust-carousel-top {
+	height: 40px;
+	background: url("../images/products/products.jpg") left no-repeat;
+	position: relative;
+}
+
+.prodcust-carousel-top .bottom_line {
+	position: absolute;
+	width: 680px;
+	border-bottom: 5px solid #418645;
+	bottom: 0;
+	left: 280px;
+}
+
+.prodcust-carousel-top-title {
+	display: table;
+	width: 680px;
+	margin-left: 280px;
+	height: 100%;
+	border-collapse: collapse;
+}
+
+.prodcust-carousel-top-title p {
+	display: table-cell;
+	height: 30px;
+	padding: 0 15px;
+	vertical-align: middle;
+	text-align: center;
+	font-family: "PTSansNarrowBold";
+	color: #418645;
+	font-size: 18px;
+}
+
+.prodcust-carousel-top-title p.active {
+	border-top: 5px solid #418645;
+	border-left: 5px solid #418645;
+	border-right: 5px solid #418645;
+	border-bottom: 5px solid rgba(0, 0, 0, 0);
+}
+
+.prodcust-carousel-top-title p.no_active {
+	border-bottom: 5px solid #418645;
+}
+
+.prodcust-carousel-list {
+	margin-top: 20px;
+	padding: 0 50px;
+	height: 170px;
+}
+
+.prodcust-carousel-list .item {
+	height: 170px;
+	width: 100px;
+	padding: 0 25px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.prodcust-carousel-list .item img {
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+.prodcust-carousel-list-item-desc {
+	margin-top: 5px;
+	font-family: "PTSansItalic";
+	font-size: 14px;
+	text-decoration: underline;
+}
+
+.prodcust-carousel-list .slick-center {
+	background-color: #f0f0f0;
+	outline: 5px solid #418645;
+	border-top: 5px solid #418645;
+}
+
+.products-desc {
+	height: 500px;
+	border: 8px solid #418645;
+	border-top: none;
+	background-color: #f0f0f0;
+	/*box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);*/
+	padding: 20px 30px;
+	
+}
+
+.products-desc .element {
+	position: relative;
+	height: 460px;
+}
+
+.products-desc .element h2 {
+	text-transform: uppercase;
+	font-family: "PTSansNarrowBold";
+	font-size: 26px;
+}
+
+.products-desc .element img.bottle {
+	position: absolute;
+	right: 30px;
+	bottom: 20px;
+}
+
+.products-desc .element img.logo {
+	position: absolute;
+	right: 200px;
+	bottom: 150px;
+}
+
+.products-desc .element p.desc {
+	width: 470px;
+	margin-top: 20px;
+	font-family: "PTSansItalic";
+	font-size: 18px;
+	text-align: justify;
+}
+
+.products-desc .element p.alc {
+	font-family: "PTSansItalicBold";
+	margin-top: 20px;
+	font-size: 20px;
+}
+
+.products-desc .element .storage {
+	position: absolute;
+	bottom: 30px;
+	left: 20px;
+	list-style: none;
+	display: table;
+}
+
+.products-desc .element .storage li {
+	width: 110px;
+	display: table-cell;
+	vertical-align: bottom;
+}
+
+.products-desc .element .storage li img {
+	margin: 0 auto;
+}
+
+.products-desc .element .storage li p {
+	margin-top: 5px;
+	text-align: center;
+	font-family: "PT Sans Narrow";
+	font-size: 18px;
+	line-height: 1;
+}
+
+.products-desc .element .storage li p.time {
+	font-family: "PTSansNarrowBold";
+}
+
+.slick-next {
+	outline: 0;
+	border: 0;
+	background: none;
+	width: 24px;
+	height: 34px;
+	background: url("../images/products/prod_right_arrow.png") no-repeat;
+	color: rgba(0, 0, 0, 0);
+	position: absolute;
+	top: 50%;
+	right: 0;
+	margin-top: -20px;
+	cursor: pointer;
+}
+
+.slick-prev {
+	outline: 0;
+	border: 0;
+	background: none;
+	width: 24px;
+	height: 34px;
+	background: url("../images/products/prod_left_arrow.png") no-repeat;
+	color: rgba(0, 0, 0, 0);
+	position: absolute;
+	top: 50%;
+	left: 0;
+	margin-top: -20px;
+	cursor: pointer;
+}
+
+.steiger-history {
+	margin-top: 30px;
+}
+
+.steiger-history-top {
+	height: 40px;
+	background: url("../images/products/history.png") left no-repeat;
+	position: relative;
+}
+
+.steiger-history-top .bottom_line {
+	position: absolute;
+	width: 680px;
+	border-bottom: 5px solid #444035;
+	bottom: 0;
+	left: 280px;
+}
+
+.steiger-histiry-carousel {
+	margin-top: 20px;
+	padding: 0 30px;
+	height: 100px;
+}
+
+.steiger-histiry-carousel .item {
+	height: 100px;
+	width: 100px;
+	padding: 0 25px;
+	text-align: center;
+	cursor: pointer;
+	background: url("../images/products/history_circle.png") center no-repeat;
+	position: relative;
+}
+
+.steiger-histiry-carousel .item p {
+	line-height: 100px;
+	vertical-align: middle;
+	font-family: "PTSansItalic";
+	font-size: 20px;
+}
+
+.steiger-histiry-carousel .slick-center {
+	background: url("../images/products/history_active.png") center no-repeat;
+}
+
+.steiger-history-desc {
+	height: 350px;
+	border: 8px solid #444035;
+	border-top: none;
+	background: url("../images/products/history_bg.jpg");
+	/*box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);*/
+	padding: 20px 30px;
+}
+
+.steiger-history-desc .element {
+	position: relative;
+	height: 310px;
+}
+
+.steiger-history-desc .element h2 {
+	text-align: center;
+	font-family: "PTSansNarrowBold";
+	font-size: 26px;
+}
+
+.steiger-history-desc .element img {
+	position: absolute;
+	top: 40px;
+	left: 0;
+}
+
+.steiger-history-desc .element img.vertical {
+	left: 30px;
+}
+
+.steiger-history-desc .element p {
+	position: absolute;
+	top: 40px;
+	left: 270px;
+	width: 600px;
+	text-align: justify;
+	font-family: "PTSansItalicBold";
+	font-size: 18px;
+}
+
+.steiger-history .slick-prev {
+	width: 18px;
+	height: 25px;
+	background: url("../images/products/history_left_arrow.png") no-repeat;
+	margin-top: -12px;
+}
+
+.steiger-history .slick-next {
+	width: 18px;
+	height: 25px;
+	background: url("../images/products/history_right_arrow.png") no-repeat;
+	margin-top: -12px;
+}
+
 #header_pic{
 	background: url('images/header_pic.jpg');
 	width: 960px;
