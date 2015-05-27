@@ -41,67 +41,43 @@
 			<ul id="menu">
 				<li class="menu_not_spacer"><a class="header" href="index.php" data-pjax='pjax_container'>Главная</a></li>
 				<li class="menu_spacer"></li>
-				<li class="menu_not_spacer"><a class="header" href="company.php" data-pjax='pjax_container'>О компании</a></li>
+				<li class="menu_not_spacer parrent"><a class="header" href="products.php" data-pjax='pjax_container'>Наша продукция</a>
+					<ul>
+						<li><a>Пиво</a><i class="fa fa-long-arrow-right"></i>
+							<ul>
+								<li><a>Словакия</a><i class="fa fa-long-arrow-right"></i>
+									<ul>
+										<li><a href="steiger.php">Steiger</a></li>
+									</ul>
+								</li>
+								<li><a>Германия</a><i class="fa fa-long-arrow-right"></i>
+									<ul>
+										<li><a href="zoller.php">Zoller-Hof</a></li>
+										<li><a href="zahringer.php">Zahringer</a></li>
+										<li><a href="steininger.php">Steininger</a></li>
+									</ul>
+								</li>
+								<li><a>Польша</a><i class="fa fa-long-arrow-right"></i>
+									<ul>
+										<li><a href="van_pur.php">Van Pur</a></li>
+									</ul>
+								</li>
+								<li><a>Дания</a><i class="fa fa-long-arrow-right"></i>
+									<ul>
+										<li><a href="faxe.php">Faxe</a></li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+						<li><a>Вода</a></li>
+					</ul>
+				</li>
 				<li class="menu_spacer"></li>
 				<li class="menu_not_spacer"><a class="header" href="news.php" data-pjax='pjax_container'>Новости</a></li>
 				<li class="menu_spacer"></li>
 				<li class="menu_not_spacer"><a class="header" href="services.php" data-pjax='pjax_container'>Услуги</a></li>
 				<li class="menu_spacer"></li>
-				<li class="menu_not_spacer parrent"><a class="header" href="products.php" data-pjax='pjax_container'>Наша продукция</a>
-					<ul>
-							<ul>
-								<li>
-									<a>
-										<img src="images/flags/slovakia.png" alt="Словакия"><br>
-										Словакия
-									</a>
-									<ul>
-										<li>
-											<a href="#">
-												<img src="images/label/steiger.png" alt="Словакия"><br><br>
-												Steiger
-											</a>
-										</li>
-										<li class="last">
-											<a href="">
-												<img src="images/label/stein.png" alt="Словакия"><br><br>
-												Stein
-											</a>
-										</li>
-										<div style="clear: both;"></div>
-									</ul>
-								</li>
-								<li>
-									<a>
-										<img src="images/flags/Poland.png" alt="Польша"><br>
-										Польша
-									</a>
-									<ul>
-										<li class='last'>
-											<a href="">
-												<img src="images/label/vanpur.png" alt="Van Pur"><br><br>
-												Van Pur
-											</a>
-										</li>
-										<div style="clear: both;"></div>
-									</ul>
-								</li>
-								<li>
-									<a>
-										<img src="images/flags/Germany.png" alt="Германия"><br>
-										Германия
-									</a>
-								</li>
-								<li class="last">
-									<a>
-										<img src="images/flags/Denmark.png" alt="Дания"><br>
-										Дания
-									</a>
-								</li>
-								<div style="clear: both;"></div>
-							</ul>
-					</ul>
-				</li>											
+				<li class="menu_not_spacer"><a class="header" href="company.php" data-pjax='pjax_container'>О компании</a></li>
 			</ul>
 			<div id="eng"><a class="eng" href="#">English</a></div>
 		</div>

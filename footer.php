@@ -1,5 +1,5 @@
-		</div>
-		<div class="page-buffer"></div>
+	</div>
+		<!-- <div class="page-buffer"></div> -->
 	</div>
 	<div id="main_footer_wrap">
 		<div id="feedback_container">
@@ -57,6 +57,7 @@
 			</div>		
 		</div>
 	</div>	
+	 <!-- end pjax container -->
 	<script src="libs/jquery/jquery-2.0.3.min.js"></script>
 	<script src="http://api-maps.yandex.ru/2.1/?lang=ru_RU&amp;load=package.full" type="text/javascript"></script>
 	<script src="libs/yamap/yamap.js"></script>
@@ -103,17 +104,17 @@
 		});
 	</script>
 	<script type="text/javascript">
-		$(document).ready(function(){
-			$('#menu li').hover(function() {
-				$(this).addClass('active');
-				$('ul:first', this).show("fast");
-				},
-				function() {
-					$(this).removeClass('active');
-					$('ul:first', this).hide ("fast"); 
-				}
-			);
-		});
+		// $(document).ready(function(){
+		// 	$('#menu li').hover(function() {
+		// 		$(this).addClass('active');
+		// 		$('ul:first', this).show("fast");
+		// 		},
+		// 		function() {
+		// 			$(this).removeClass('active');
+		// 			$('ul:first', this).hide ("fast"); 
+		// 		}
+		// 	);
+		// });
 	</script>
 	<script type="text/javascript">
 		$(document).ready(function(){
