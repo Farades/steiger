@@ -69,7 +69,13 @@
 								</li>
 							</ul>
 						</li>
-						<li><a>Вода</a></li>
+						<li><a>Вода</a><i class="fa fa-long-arrow-right"></i>
+							<ul>
+								<li><a href="dr_pepper.php">Dr. Pepper</a></li>
+								<li><a href="serafimov.php">Серафимов дар</a></li>
+							</ul>
+							
+						</li>
 					</ul>
 				</li>
 				<li class="menu_spacer"></li>
