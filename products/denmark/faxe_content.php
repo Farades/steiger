@@ -11,7 +11,7 @@
 		</div>
 		<div class="prodcust-carousel-list">
 			<div class="item">
-				<img src="images/products/faxe/faxe.png">
+				<img src="<?echo $host_name;?>images/products/faxe/faxe.png">
 				<p class="prodcust-carousel-list-item-desc">Faxe<br>4.0% (оборот)<br>Светлое</p>
 			</div>
 		</div>
@@ -25,12 +25,12 @@
 			<p class="alc">Содержание алкоголя: 4% (об.)</p>
 			<ul class="storage">
 				<li>
-					<img src="images/products/steiger/tin_plate.png">
+					<img src="<?echo $host_name;?>images/products/steiger/tin_plate.png">
 					<p>В жестяной<br>банке</p>
 					<p class="time">360 суток</p>
 				</li>
 			</ul>
-			<img class="bottle" src="images/products/faxe/faxe_big.png">
+			<img class="bottle" src="<?echo $host_name;?>images/products/faxe/faxe_big.png">
 			<!-- <img class="logo" src="images/products/van_pur/van_pur_logo.png"> -->
 		</div>
   	</div>

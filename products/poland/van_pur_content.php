@@ -8,38 +8,26 @@
 	<div class="prodcust-carousel">
 		<div class="prodcust-carousel-top">
 			<div class="bottom_line"></div>
-
-<!-- 			<div class="prodcust-carousel-top-title">
-				<p class="no_active">
-					ВОДКА
-				</p>
-				<p class="active">
-					ПИВО
-				</p>
-				<p class="no_active last">
-					ГАЗИРОВАННАЯ ВОДА
-				</p>
-			</div> -->
 		</div>
 		<div class="prodcust-carousel-list">
 			<div class="item">
-				<img src="images/products/van_pur/herm_mull.png">
+				<img src="<?echo $host_name;?>images/products/van_pur/herm_mull.png">
 				<p class="prodcust-carousel-list-item-desc">Herman Muller<br>4.0% (оборот)<br>Светлое</p>
 			</div>
 			<div class="item">
-				<img src="images/products/van_pur/karpacki.png">
+				<img src="<?echo $host_name;?>images/products/van_pur/karpacki.png">
 				<p class="prodcust-carousel-list-item-desc">Karpacki Pils<br>4.0% (оборот)<br>Светлое</p>
 			</div>
 			<div class="item">
-				<img src="images/products/van_pur/lomza.png">
+				<img src="<?echo $host_name;?>images/products/van_pur/lomza.png">
 				<p class="prodcust-carousel-list-item-desc">Lomza Export<br>5.7% (оборот)<br>Светлое</p>
 			</div>
 			<div class="item">
-				<img src="images/products/van_pur/van_pur.png">
+				<img src="<?echo $host_name;?>images/products/van_pur/van_pur.png">
 				<p class="prodcust-carousel-list-item-desc">Van Pur Premium<br>5.5% (оборот)<br>Светлое</p>
 			</div>
 			<div class="item">
-				<img src="images/products/van_pur/edelmeister.png">
+				<img src="<?echo $host_name;?>images/products/van_pur/edelmeister.png">
 				<p class="prodcust-carousel-list-item-desc">Edelmeister<br>4.5% (оборот)<br>Светлое</p>
 			</div>
 		</div>
@@ -53,13 +41,13 @@
 			<p class="alc">Содержание алкоголя: 4% (об.)</p>
 			<ul class="storage">
 				<li>
-					<img src="images/products/steiger/tin_plate.png">
+					<img src="<?echo $host_name;?>images/products/steiger/tin_plate.png">
 					<p>В жестяной<br>банке</p>
 					<p class="time">360 суток</p>
 				</li>
 			</ul>
-			<img class="bottle" src="images/products/van_pur/herm_mull_big.png">
-			<img class="logo" src="images/products/van_pur/van_pur_logo.png">
+			<img class="bottle" src="<?echo $host_name;?>images/products/van_pur/herm_mull_big.png">
+			<img class="logo" src="<?echo $host_name;?>images/products/van_pur/van_pur_logo.png">
 		</div>
 		<div class="element">
 			<h2>ПИВО Karpacki Pils 4% (оборот)</h2>
@@ -67,13 +55,13 @@
 			<p class="alc">Содержание алкоголя: 4% (об.)</p>
 			<ul class="storage">
 				<li>
-					<img src="images/products/steiger/tin_plate.png">
+					<img src="<?echo $host_name;?>images/products/steiger/tin_plate.png">
 					<p>В жестяной<br>банке</p>
 					<p class="time">360 суток</p>
 				</li>
 			</ul>
-			<img class="bottle" src="images/products/van_pur/karpacki_big.png">
-			<img class="logo" src="images/products/van_pur/van_pur_logo.png">
+			<img class="bottle" src="<?echo $host_name;?>images/products/van_pur/karpacki_big.png">
+			<img class="logo" src="<?echo $host_name;?>images/products/van_pur/van_pur_logo.png">
 		</div>
 		<div class="element">
 			<h2>ПИВО Lomza Export 5.7% (оборот)</h2>
@@ -81,13 +69,13 @@
 			<p class="alc">Содержание алкоголя: 5.7% (об.)</p>
 			<ul class="storage">
 				<li>
-					<img src="images/products/steiger/tin_plate.png">
+					<img src="<?echo $host_name;?>images/products/steiger/tin_plate.png">
 					<p>В жестяной<br>банке</p>
 					<p class="time">360 суток</p>
 				</li>
 			</ul>
-			<img class="bottle" src="images/products/van_pur/lomza_big.png">
-			<img class="logo" src="images/products/van_pur/van_pur_logo.png">
+			<img class="bottle" src="<?echo $host_name;?>images/products/van_pur/lomza_big.png">
+			<img class="logo" src="<?echo $host_name;?>images/products/van_pur/van_pur_logo.png">
 		</div>
 		<div class="element">
 			<h2>ПИВО Van Pur Premium 5.5% (оборот)</h2>
@@ -95,13 +83,13 @@
 			<p class="alc">Содержание алкоголя: 5.5% (об.)</p>
 			<ul class="storage">
 				<li>
-					<img src="images/products/steiger/tin_plate.png">
+					<img src="<?echo $host_name;?>images/products/steiger/tin_plate.png">
 					<p>В жестяной<br>банке</p>
 					<p class="time">360 суток</p>
 				</li>
 			</ul>
-			<img class="bottle" src="images/products/van_pur/van_pur_big.png">
-			<img class="logo" src="images/products/van_pur/van_pur_logo.png">
+			<img class="bottle" src="<?echo $host_name;?>images/products/van_pur/van_pur_big.png">
+			<img class="logo" src="<?echo $host_name;?>images/products/van_pur/van_pur_logo.png">
 		</div>
 		<div class="element">
 			<h2>ПИВО Edelmeister 4.5% (оборот)</h2>
@@ -109,13 +97,13 @@
 			<p class="alc">Содержание алкоголя: 4.5% (об.)</p>
 			<ul class="storage">
 				<li>
-					<img src="images/products/steiger/tin_plate.png">
+					<img src="<?echo $host_name;?>images/products/steiger/tin_plate.png">
 					<p>В жестяной<br>банке</p>
 					<p class="time">360 суток</p>
 				</li>
 			</ul>
-			<img class="bottle" src="images/products/van_pur/edelmeister_big.png">
-			<img class="logo" src="images/products/van_pur/van_pur_logo.png">
+			<img class="bottle" src="<?echo $host_name;?>images/products/van_pur/edelmeister_big.png">
+			<img class="logo" src="<?echo $host_name;?>images/products/van_pur/van_pur_logo.png">
 		</div>
   	</div>
 </div>

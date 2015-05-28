@@ -36,17 +36,17 @@
 
 		<div class="footer_wrap">	
 			<div id="footer">
-				<div class="footer-logo"><img src="images/logo.jpg" alt="Лого"></div>
+				<div class="footer-logo"><img src="<?echo $host_name;?>images/logo.jpg" alt="Лого"></div>
 				<div class="slogan">FIRSTTRADE</div>
 				<div id="footer_menu">
 					<ul>
-						<li class="menu_not_spacer"><a class="eng" href="company.php" data-pjax='pjax_container'>О компании</a></li>
+						<li class="menu_not_spacer"><a class="eng" href="<?echo $host_name;?>company.php" data-pjax='pjax_container'>О компании</a></li>
 						<li class="menu_spacer"></li>
-						<li class="menu_not_spacer"><a class="eng" href="news.php" data-pjax='pjax_container'>Новости</a></li>
+						<li class="menu_not_spacer"><a class="eng" href="<?echo $host_name;?>news.php" data-pjax='pjax_container'>Новости</a></li>
 						<li class="menu_spacer"></li>
-						<li class="menu_not_spacer"><a class="eng" href="services.php" data-pjax='pjax_container'>Услуги</a></li>
+						<li class="menu_not_spacer"><a class="eng" href="<?echo $host_name;?>services.php" data-pjax='pjax_container'>Услуги</a></li>
 						<li class="menu_spacer"></li>
-						<li class="menu_not_spacer"><a class="eng" href="products.php" data-pjax='pjax_container'>Наша продукция</a></li>
+						<li class="menu_not_spacer"><a class="eng" href="<?echo $host_name;?>products.php" data-pjax='pjax_container'>Наша продукция</a></li>
 						<div style="clear:both;"></div>					
 					</ul>
 				</div>
@@ -58,11 +58,11 @@
 		</div>
 	</div>	
 	 <!-- end pjax container -->
-	<script src="libs/jquery/jquery-2.0.3.min.js"></script>
+	<script src="<?echo $host_name;?>libs/jquery/jquery-2.0.3.min.js"></script>
 	<script src="http://api-maps.yandex.ru/2.1/?lang=ru_RU&amp;load=package.full" type="text/javascript"></script>
-	<script src="libs/yamap/yamap.js"></script>
-	<script src="libs/pjax/jquery.pjax.js"></script>
-	<script type="text/javascript" src="libs/slick/slick.min.js"></script>
+	<script src="<?echo $host_name;?>libs/yamap/yamap.js"></script>
+	<script src="<?echo $host_name;?>libs/pjax/jquery.pjax.js"></script>
+	<script type="text/javascript" src="<?echo $host_name;?>libs/slick/slick.min.js"></script>
 
 	<script type="text/javascript">
 		$(document).ready(function(){

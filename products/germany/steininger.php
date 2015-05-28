@@ -5,7 +5,7 @@
 		include("steininger_content.php");
 ?>
 <?php else:
-	include("header.php");
+	include("../../header.php");
 	include("steininger_content.php");
-	include("footer.php");
+	include("../../footer.php");
 endif; ?>

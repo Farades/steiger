@@ -11,15 +11,15 @@
 		</div>
 		<div class="prodcust-carousel-list">
 			<div class="item">
-				<img src="images/products/steininger/premium.png">
+				<img src="<?echo $host_name;?>images/products/steininger/premium.png">
 				<p class="prodcust-carousel-list-item-desc">Steininger Premium<br>4.5% (оборот)<br>Светлое</p>
 			</div>
 			<div class="item">
-				<img src="images/products/steininger/hefeweisbier.png">
+				<img src="<?echo $host_name;?>images/products/steininger/hefeweisbier.png">
 				<p class="prodcust-carousel-list-item-desc">Steininger Hefeweisbier<br>5.2% (оборот)<br>Светлое</p>
 			</div>
 			<div class="item">
-				<img src="images/products/steininger/schwarzbier.png">
+				<img src="<?echo $host_name;?>images/products/steininger/schwarzbier.png">
 				<p class="prodcust-carousel-list-item-desc">Steininger Schwarzbier<br>4.9% (оборот)<br>Темное</p>
 			</div>
 		</div>
@@ -31,13 +31,13 @@
 			<p class="alc">Содержание алкоголя: 4.5% (об.)</p>
 			<ul class="storage">
 				<li>
-					<img src="images/products/steiger/tin_plate.png">
+					<img src="<?echo $host_name;?>images/products/steiger/tin_plate.png">
 					<p>В жестяной<br>банке</p>
 					<p class="time">360 суток</p>
 				</li>
 			</ul>
-			<img class="bottle" src="images/products/steininger/premium_big.png">
-			<img class="logo" src="images/products/steininger/steininger_logo.png">
+			<img class="bottle" src="<?echo $host_name;?>images/products/steininger/premium_big.png">
+			<img class="logo" src="<?echo $host_name;?>images/products/steininger/steininger_logo.png">
 		</div>
 		<div class="element">
 			<h2>ПИВО Steininger Hefeweisbier 5.2% (оборот)</h2>
@@ -45,13 +45,13 @@
 			<p class="alc">Содержание алкоголя: 5.2% (об.)</p>
 			<ul class="storage">
 				<li>
-					<img src="images/products/steiger/tin_plate.png">
+					<img src="<?echo $host_name;?>images/products/steiger/tin_plate.png">
 					<p>В жестяной<br>банке</p>
 					<p class="time">360 суток</p>
 				</li>
 			</ul>
-			<img class="bottle" src="images/products/steininger/hefeweisbier_big.png">
-			<img class="logo" src="images/products/steininger/steininger_logo.png">
+			<img class="bottle" src="<?echo $host_name;?>images/products/steininger/hefeweisbier_big.png">
+			<img class="logo" src="<?echo $host_name;?>images/products/steininger/steininger_logo.png">
 		</div>
 		<div class="element">
 			<h2>ПИВО Steininger Schwarzbier 4.9% (оборот)</h2>
@@ -59,13 +59,13 @@
 			<p class="alc">Содержание алкоголя: 4.9% (об.)</p>
 			<ul class="storage">
 				<li>
-					<img src="images/products/steiger/tin_plate.png">
+					<img src="<?echo $host_name;?>images/products/steiger/tin_plate.png">
 					<p>В жестяной<br>банке</p>
 					<p class="time">360 суток</p>
 				</li>
 			</ul>
-			<img class="bottle" src="images/products/steininger/schwarzbier_big.png">
-			<img class="logo" src="images/products/steininger/steininger_logo.png">
+			<img class="bottle" src="<?echo $host_name;?>images/products/steininger/schwarzbier_big.png">
+			<img class="logo" src="<?echo $host_name;?>images/products/steininger/steininger_logo.png">
 		</div>
   	</div>
 </div>

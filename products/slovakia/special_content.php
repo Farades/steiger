@@ -11,15 +11,15 @@
 		</div>
 		<div class="prodcust-carousel-list">
 			<div class="item">
-				<img src="images/products/special/kachelman.png">
+				<img src="<?echo $host_name;?>images/products/special/kachelman.png">
 				<p class="prodcust-carousel-list-item-desc">Kachelman<br>3.0% (оборот)<br>Светлое</p>
 			</div>
 			<div class="item">
-				<img src="images/products/special/sitnan.png">
+				<img src="<?echo $host_name;?>images/products/special/sitnan.png">
 				<p class="prodcust-carousel-list-item-desc">Sitnan<br>5.0% (оборот)<br>Светлое</p>
 			</div>
 			<div class="item">
-				<img src="images/products/special/grosak.png">
+				<img src="<?echo $host_name;?>images/products/special/grosak.png">
 				<p class="prodcust-carousel-list-item-desc">Grosak<br>3.0% (оборот)<br>Светлое</p>
 			</div>
 		</div>
@@ -32,13 +32,13 @@
 			<p class="alc">Содержание алкоголя: 3.0% (об.)</p>
 			<ul class="storage">
 				<li>
-					<img src="images/products/steiger/bottle.png">
+					<img src="<?echo $host_name;?>images/products/steiger/bottle.png">
 					<p>В стеклянной<br>бутылке</p>
 					<p class="time">270 суток</p>
 				</li>
 			</ul>
-			<img class="bottle" src="images/products/special/kachelman_big.png">
-			<img class="logo" src="images/products/special/kachelman_logo.png">
+			<img class="bottle" src="<?echo $host_name;?>images/products/special/kachelman_big.png">
+			<img class="logo" src="<?echo $host_name;?>images/products/special/kachelman_logo.png">
 		</div>
 		<div class="element">
 			<h2>ПИВО Sitnan 5.0% (оборот)</h2>
@@ -46,13 +46,13 @@
 			<p class="alc">Содержание алкоголя: 5.0% (об.)</p>
 			<ul class="storage">
 				<li>
-					<img src="images/products/steiger/bottle.png">
+					<img src="<?echo $host_name;?>images/products/steiger/bottle.png">
 					<p>В стеклянной<br>бутылке</p>
 					<p class="time">360 суток</p>
 				</li>
 			</ul>
-			<img class="bottle" src="images/products/special/sitnan_big.png">
-			<img class="logo" src="images/products/special/sitnan_logo.png">
+			<img class="bottle" src="<?echo $host_name;?>images/products/special/sitnan_big.png">
+			<img class="logo" src="<?echo $host_name;?>images/products/special/sitnan_logo.png">
 		</div>
 		<div class="element">
 			<h2>ПИВО Grosak 3.0% (оборот)</h2>
@@ -60,12 +60,12 @@
 			<p class="alc">Содержание алкоголя: 3.0% (об.)</p>
 			<ul class="storage">
 				<li>
-					<img src="images/products/steiger/bottle.png">
+					<img src="<?echo $host_name;?>images/products/steiger/bottle.png">
 					<p>В стеклянной<br>бутылке</p>
 					<p class="time">270 суток</p>
 				</li>
 			</ul>
-			<img class="bottle" src="images/products/special/grosak_big.png">
+			<img class="bottle" src="<?echo $host_name;?>images/products/special/grosak_big.png">
 		</div>
   	</div>
 </div>

@@ -5,7 +5,7 @@
 		include("special_content.php");
 ?>
 <?php else:
-	include("header.php");
+	include("../../header.php");
 	include("special_content.php");
-	include("footer.php");
+	include("../../footer.php");
 endif; ?>

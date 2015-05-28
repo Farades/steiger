@@ -5,7 +5,7 @@
 		include("zahringer_content.php");
 ?>
 <?php else:
-	include("header.php");
+	include("../../header.php");
 	include("zahringer_content.php");
-	include("footer.php");
+	include("../../footer.php");
 endif; ?>

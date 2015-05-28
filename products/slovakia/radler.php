@@ -5,7 +5,7 @@
 		include("radler_content.php");
 ?>
 <?php else:
-	include("header.php");
+	include("../../header.php");
 	include("radler_content.php");
-	include("footer.php");
+	include("../../footer.php");
 endif; ?>

@@ -11,15 +11,15 @@
 		</div>
 		<div class="prodcust-carousel-list">
 			<div class="item">
-				<img src="images/products/stein/konzumne.png">
+				<img src="<?echo $host_name;?>images/products/stein/konzumne.png">
 				<p class="prodcust-carousel-list-item-desc">Stein Konzumne<br>3.4% (оборот)<br>Светлое</p>
 			</div>
 			<div class="item">
-				<img src="images/products/stein/vyczpne.png">
+				<img src="<?echo $host_name;?>images/products/stein/vyczpne.png">
 				<p class="prodcust-carousel-list-item-desc">Stein Vycapne<br>4.1% (оборот)<br>Светлое</p>
 			</div>
 			<div class="item">
-				<img src="images/products/stein/leziak.png">
+				<img src="<?echo $host_name;?>images/products/stein/leziak.png">
 				<p class="prodcust-carousel-list-item-desc">Stein Leziak<br>5.0% (оборот)<br>Светлое</p>
 			</div>
 		</div>
@@ -32,13 +32,13 @@
 			<p class="alc">Содержание алкоголя: 3.4% (об.)</p>
 			<ul class="storage">
 				<li>
-					<img src="images/products/steiger/bottle.png">
+					<img src="<?echo $host_name;?>images/products/steiger/bottle.png">
 					<p>В стеклянной<br>бутылке</p>
 					<p class="time">270 суток</p>
 				</li>
 			</ul>
-			<img class="bottle" src="images/products/stein/konzumne_big.png">
-			<img class="logo" src="images/products/stein/stein_logo.png">
+			<img class="bottle" src="<?echo $host_name;?>images/products/stein/konzumne_big.png">
+			<img class="logo" src="<?echo $host_name;?>images/products/stein/stein_logo.png">
 		</div>
 		<div class="element">
 			<h2>ПИВО Stein Vycapne 4.1% (оборот)</h2>
@@ -46,13 +46,13 @@
 			<p class="alc">Содержание алкоголя: 4.1% (об.)</p>
 			<ul class="storage">
 				<li>
-					<img src="images/products/steiger/bottle.png">
+					<img src="<?echo $host_name;?>images/products/steiger/bottle.png">
 					<p>В стеклянной<br>бутылке</p>
 					<p class="time">360 суток</p>
 				</li>
 			</ul>
-			<img class="bottle" src="images/products/stein/vyczpne_big.png">
-			<img class="logo" src="images/products/stein/stein_logo.png">
+			<img class="bottle" src="<?echo $host_name;?>images/products/stein/vyczpne_big.png">
+			<img class="logo" src="<?echo $host_name;?>images/products/stein/stein_logo.png">
 		</div>
 		<div class="element">
 			<h2>ПИВО Stein Leziak 5.0% (оборот)</h2>
@@ -60,13 +60,13 @@
 			<p class="alc">Содержание алкоголя: 5.0% (об.)</p>
 			<ul class="storage">
 				<li>
-					<img src="images/products/steiger/bottle.png">
+					<img src="<?echo $host_name;?>images/products/steiger/bottle.png">
 					<p>В стеклянной<br>бутылке</p>
 					<p class="time">360 суток</p>
 				</li>
 			</ul>
-			<img class="bottle" src="images/products/stein/leziak_big.png">
-			<img class="logo" src="images/products/stein/stein_logo.png">
+			<img class="bottle" src="<?echo $host_name;?>images/products/stein/leziak_big.png">
+			<img class="logo" src="<?echo $host_name;?>images/products/stein/stein_logo.png">
 		</div>
   	</div>
 </div>

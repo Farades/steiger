@@ -5,7 +5,7 @@
 		include("van_pur_content.php");
 ?>
 <?php else:
-	include("header.php");
+	include("../../header.php");
 	include("van_pur_content.php");
-	include("footer.php");
+	include("../../footer.php");
 endif; ?>
