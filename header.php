@@ -64,6 +64,10 @@
 								<li><a>Польша</a><i class="fa fa-long-arrow-right"></i>
 									<ul>
 										<li><a href="<?echo $host_name;?>products/poland/van_pur.php">Van Pur</a></li>
+										<li><a href="<?echo $host_name;?>products/poland/herman.php">Herman Muller</a></li>
+										<li><a href="<?echo $host_name;?>products/poland/lomza.php">Lomza</a></li>
+										<li><a href="<?echo $host_name;?>products/poland/karpackie.php">Karpackie</a></li>
+										<li><a href="<?echo $host_name;?>products/poland/edelmeister.php">Edelmeister</a></li>
 									</ul>
 								</li>
 								<li><a>Дания</a><i class="fa fa-long-arrow-right"></i>
@@ -75,8 +79,9 @@
 						</li>
 						<li><a>Вода</a><i class="fa fa-long-arrow-right"></i>
 							<ul>
-								<li><a href="<?echo $host_name;?>dr_pepper.php">Dr. Pepper</a></li>
-								<li><a href="<?echo $host_name;?>serafimov.php">Серафимов дар</a></li>
+								<li><a href="<?echo $host_name;?>products/water/dr_pepper.php">Dr. Pepper</a></li>
+								<li><a href="<?echo $host_name;?>products/water/old_pepper.php">Old Pepper's</a></li>
+								<li><a href="<?echo $host_name;?>products/water/serafimov.php">Серафимов дар</a></li>
 							</ul>
 							
 						</li>

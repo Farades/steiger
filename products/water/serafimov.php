@@ -5,7 +5,7 @@
 		include("serafimov_content.php");
 ?>
 <?php else:
-	include("header.php");
+	include("../../header.php");
 	include("serafimov_content.php");
-	include("footer.php");
+	include("../../footer.php");
 endif; ?>

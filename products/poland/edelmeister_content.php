@@ -11,17 +11,17 @@
 		</div>
 		<div class="prodcust-carousel-list">
 			<div class="item">
-				<img src="<?echo $host_name;?>images/products/van_pur/van_pur.png">
-				<p class="prodcust-carousel-list-item-desc">Van Pur Premium<br>5.5% (оборот)<br>Светлое</p>
+				<img src="<?echo $host_name;?>images/products/van_pur/edelmeister.png">
+				<p class="prodcust-carousel-list-item-desc">Edelmeister<br>4.5% (оборот)<br>Светлое</p>
 			</div>
 		</div>
 		</div>
 	</div>
 	<div class="products-desc">
 		<div class="element">
-			<h2>ПИВО Van Pur Premium 5.5% (оборот)</h2>
-			<p class="desc">Van Pur - пиво чистого золотисто-желтого цвета. Обладает мягким, горьким вкусом с освежающими лимонными оттенками, тонами дрожжей, хмеля, хлеба, горьковатым послевкусием.</p>
-			<p class="alc">Содержание алкоголя: 5.5% (об.)</p>
+			<h2>ПИВО Edelmeister 4.5% (оборот)</h2>
+			<p class="desc">Edelmeister - традиционный лагер типа немецкий Пилс с легким телом и питким, сбалансированным вкусом с тонкими солодовыми и деликатными хмелевыми оттенками.<p>
+			<p class="alc">Содержание алкоголя: 4.5% (об.)</p>
 			<ul class="storage">
 				<li>
 					<img src="<?echo $host_name;?>images/products/steiger/tin_plate.png">
@@ -29,8 +29,7 @@
 					<p class="time">360 суток</p>
 				</li>
 			</ul>
-			<img class="bottle" src="<?echo $host_name;?>images/products/van_pur/van_pur_big.png">
-			<img class="logo" src="<?echo $host_name;?>images/products/van_pur/van_pur_logo.png">
+			<img class="bottle" src="<?echo $host_name;?>images/products/van_pur/edelmeister_big.png">
 		</div>
   	</div>
 </div>

@@ -5,7 +5,7 @@
 		include("dr_pepper_content.php");
 ?>
 <?php else:
-	include("header.php");
+	include("../../header.php");
 	include("dr_pepper_content.php");
-	include("footer.php");
+	include("../../footer.php");
 endif; ?>

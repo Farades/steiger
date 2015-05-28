@@ -11,17 +11,17 @@
 		</div>
 		<div class="prodcust-carousel-list">
 			<div class="item">
-				<img src="<?echo $host_name;?>images/products/van_pur/van_pur.png">
-				<p class="prodcust-carousel-list-item-desc">Van Pur Premium<br>5.5% (оборот)<br>Светлое</p>
+				<img src="<?echo $host_name;?>images/products/van_pur/karpacki.png">
+				<p class="prodcust-carousel-list-item-desc">Karpacki Pils<br>4.0% (оборот)<br>Светлое</p>
 			</div>
 		</div>
 		</div>
 	</div>
 	<div class="products-desc">
 		<div class="element">
-			<h2>ПИВО Van Pur Premium 5.5% (оборот)</h2>
-			<p class="desc">Van Pur - пиво чистого золотисто-желтого цвета. Обладает мягким, горьким вкусом с освежающими лимонными оттенками, тонами дрожжей, хмеля, хлеба, горьковатым послевкусием.</p>
-			<p class="alc">Содержание алкоголя: 5.5% (об.)</p>
+			<h2>ПИВО Karpacki Pils 4% (оборот)</h2>
+			<p class="desc">Пиво "Karpacki", представленное компание Van Pur в четырех вариантах, отражает разнообразный характер Карпат. В ассортименте бренда "Карпацке" каждый найдет себе напиток по вкусу и настроению. "Karpacki Pils" - пиво в свежем, питьевом стиле, подходит для тех, кто предпочитает нежную горечь хмеля, хорошо сбалансированную с солодовыми нотками.</p>
+			<p class="alc">Содержание алкоголя: 4% (об.)</p>
 			<ul class="storage">
 				<li>
 					<img src="<?echo $host_name;?>images/products/steiger/tin_plate.png">
@@ -29,8 +29,7 @@
 					<p class="time">360 суток</p>
 				</li>
 			</ul>
-			<img class="bottle" src="<?echo $host_name;?>images/products/van_pur/van_pur_big.png">
-			<img class="logo" src="<?echo $host_name;?>images/products/van_pur/van_pur_logo.png">
+			<img class="bottle" src="<?echo $host_name;?>images/products/van_pur/karpacki_big.png">
 		</div>
   	</div>
 </div>
