@@ -23,148 +23,101 @@
 		</div>
 		<div class="prodcust-carousel-list">
 			<div class="item">
-				<img src="images/products/steiger/premium_dark.png">
-				<p class="prodcust-carousel-list-item-desc">Steiger PREMIUM Dark<br>4.5% (оборот)<br>Темное</p>
+				<img src="images/products/steiger/radler_malina.png">
+				<p class="prodcust-carousel-list-item-desc">Steiger Radler Malina<br>2% (оборот)<br>Светлое</p>
 			</div>
 			<div class="item">
-				<img src="images/products/steiger/steiger_gold.png">
-				<p class="prodcust-carousel-list-item-desc">Steiger GOLD<br>5.0% (оборот)<br>Светлое</p>
+				<img src="images/products/steiger/radler_zazvor.png">
+				<p class="prodcust-carousel-list-item-desc">Steiger Radler Zazvor<br>2% (оборот)<br>Светлое</p>
 			</div>
 			<div class="item">
-				<img src="images/products/steiger/classic.png">
-				<p class="prodcust-carousel-list-item-desc">Steiger Classic<br>4% (оборот)<br>Светлое</p>
+				<img src="images/products/steiger/radler_limetka.png">
+				<p class="prodcust-carousel-list-item-desc">Steiger Radler Limetka<br>2% (оборот)<br>Светлое</p>
 			</div>
 			<div class="item">
-				<img src="images/products/steiger/premium_sv.png">
-				<p class="prodcust-carousel-list-item-desc">Steiger PREMIUM Svetly<br>4.5% (оборот)<br>Светлое</p>
+				<img src="images/products/steiger/radler_citron.png">
+				<p class="prodcust-carousel-list-item-desc">Steiger Radler Citron<br>2% (оборот)<br>Светлое</p>
 			</div>
 			<div class="item">
-				<img src="images/products/steiger/free.png">
-				<p class="prodcust-carousel-list-item-desc">Steiger Free<br>0.5% (оборот)<br>Светлое</p>
-			</div>
-			<div class="item">
-				<img src="images/products/steiger/free_dark.png">
-				<p class="prodcust-carousel-list-item-desc">Steiger Dark Free<br>0.5% (оборот)<br>Темное</p>
+				<img src="images/products/steiger/radler_tmave.png">
+				<p class="prodcust-carousel-list-item-desc">Steiger Radler Tmave Nealko<br>0.5% (оборот)<br>Светлое</p>
 			</div>
 		</div>
 		</div>
 	</div>
 	<div class="products-desc">
+		<div class="element">
+			<h2>ПИВО Steiger Radler Malina 2% (оборот)</h2>
+			<p class="desc">Мы рекомендуем не обращать внимание на этот текст, а подождать пока владелец компании придумает подходящий. А пока просто попробуйте это незабываемо вкусное пиво.</p>
+			<p class="alc">Содержание алкоголя: 2% (об.)</p>
+			<ul class="storage">
+				<li>
+					<img src="images/products/steiger/bottle.png">
+					<p>В стеклянной<br>бутылке</p>
+					<p class="time">270 суток</p>
+				</li>
+			</ul>
+			<img class="bottle" src="images/products/steiger/radler_malina_big.png">
+			<img class="logo" src="images/products/steiger/steiger_logo.png">
+		</div>
+		<div class="element">
+			<h2>ПИВО Steiger Radler Zazvor 2% (оборот)</h2>
+			<p class="desc">Мы рекомендуем не обращать внимание на этот текст, а подождать пока владелец компании придумает подходящий. А пока просто попробуйте это незабываемо вкусное пиво.</p>
+			<p class="alc">Содержание алкоголя: 2% (об.)</p>
+			<ul class="storage">
+				<li>
+					<img src="images/products/steiger/bottle.png">
+					<p>В стеклянной<br>бутылке</p>
+					<p class="time">270 суток</p>
+				</li>
+			</ul>
+			<img class="bottle" src="images/products/steiger/radler_zazvor_big.png">
+			<img class="logo" src="images/products/steiger/steiger_logo.png">
+		</div>
+		<div class="element">
+			<h2>ПИВО Steiger Radler Limetka 2% (оборот)</h2>
+			<p class="desc">Мы рекомендуем не обращать внимание на этот текст, а подождать пока владелец компании придумает подходящий. А пока просто попробуйте это незабываемо вкусное пиво.</p>
+			<p class="alc">Содержание алкоголя: 2% (об.)</p>
+			<ul class="storage">
+				<li>
+					<img src="images/products/steiger/bottle.png">
+					<p>В стеклянной<br>бутылке</p>
+					<p class="time">270 суток</p>
+				</li>
+			</ul>
+			<img class="bottle" src="images/products/steiger/radler_limetka_big.png">
+			<img class="logo" src="images/products/steiger/steiger_logo.png">
+		</div>
+		<div class="element">
+			<h2>ПИВО Steiger Radler Citron 2% (оборот)</h2>
+			<p class="desc">Steiger Radler Citron это новые вкусовые ощущения. Основной лимонный вкус смешанный с традиционным пивом получается изысканный вкус легкого алкогольного напитка. Свежий вкус лимона и правильно сбалансированная горечь пива Steiger дает новые силы , чтобы выдержать все трудности, что день принесет . Отлично подходит для вечеринок и не только можно  насладиться прохладным вечером, в пивной компании друзей.</p>
+			<p class="alc">Содержание алкоголя: 2% (об.)</p>
+			<ul class="storage">
+				<li>
+					<img src="images/products/steiger/bottle.png">
+					<p>В стеклянной<br>бутылке</p>
+					<p class="time">290 суток</p>
+				</li>
+			</ul>
+			<img class="bottle" src="images/products/steiger/radler_citron_big.png">
+			<img class="logo" src="images/products/steiger/steiger_logo.png">
+		</div>
+		<div class="element">
+			<h2>ПИВО Steiger Radler Tmave Nealko 0.5% (оборот)</h2>
+			<p class="desc">Steiger Radler лимон безалкогольное темное. Чтобы получить новый темно-лимонный radler показываем тем, кто хочет сесть за руль но испытать истинные вкусовые качества натурального пива, - здесь для Вас, вторая в этом году новинка - это доказательства того, что темное пиво обогащенное с освежающим вкусом лимона может быть не только прекрасной заменой алкоголя в компании но и обычным повседневным любимым напитком утоляющий жажду</p>
+			<p class="alc">Содержание алкоголя: 0.5% (об.)</p>
+			<ul class="storage">
+				<li>
+					<img src="images/products/steiger/tin_plate.png">
+					<p>В жестяной<br>банке</p>
+					<p class="time">360 суток</p>
+				</li>
+			</ul>
+			<img class="bottle" src="images/products/steiger/radler_tmave_big.png">
+			<img class="logo" src="images/products/steiger/steiger_logo.png">
+		</div>
 
-		<div class="element">
-			<h2>ПИВО Steiger PREMIUM Dark 4.5% (оборот)</h2>
-			<p class="desc">Вкусное пиво, секрет кроется в гармоничном сочетании вкуса баварской карамели и солода. Отличительная черта темного цвета, оригинальный букет пивных ингридиентов и приятный мягкий вкус.</p>
-			<p class="alc">Содержание алкоголя: 4.5% (об.)</p>
-			<ul class="storage">
-				<li>
-					<img src="images/products/steiger/bottle.png">
-					<p>В стеклянной<br>бутылке</p>
-					<p class="time">360 суток</p>
-				</li>
-<!-- 				<li>
-					<img src="images/products/steiger/pet_bottle.png">
-					<p>В ПЭТ<br>бутылке</p>
-					<p class="time">100 суток</p>
-				</li> -->
-				<li>
-					<img src="images/products/steiger/tin_plate.png">
-					<p>В жестяной<br>банке</p>
-					<p class="time">360 суток</p>
-				</li>
-				<li>
-					<img src="images/products/steiger/barrel.png">
-					<p>В бочке<br>(кеге)</p>
-					<p class="time">240 суток</p>
-				</li>
-			</ul>
-			<img class="bottle" src="images/products/steiger/premium_dark_big.png">
-			<img class="logo" src="images/products/steiger/steiger_logo.png">
-		</div>
-		<div class="element">
-			<h2>ПИВО Steiger GOLD 5% (оборот)</h2>
-			<p class="desc">Пиво прекрасно утоляет жажду, с богатой и мягкой умеренной хмелевой горечью. Сбалансированный и приятный вкус, хорошее послевкусие.</p>
-			<p class="alc">Содержание алкоголя: 5% (об.)</p>
-			<ul class="storage">
-				<li>
-					<img src="images/products/steiger/bottle.png">
-					<p>В стеклянной<br>бутылке</p>
-					<p class="time">360 суток</p>
-				</li>
-				<li>
-					<img src="images/products/steiger/tin_plate.png">
-					<p>В жестяной<br>банке</p>
-					<p class="time">360 суток</p>
-				</li>
-				<li>
-					<img src="images/products/steiger/barrel.png">
-					<p>В бочке<br>(кеге)</p>
-					<p class="time">240 суток</p>
-				</li>
-			</ul>
-			<img class="bottle" src="images/products/steiger/steiger_gold_big.png">
-			<img class="logo" src="images/products/steiger/steiger_logo.png">
-		</div>
-		<div class="element">
-			<h2>ПИВО Steiger Classic 4% (оборот)</h2>
-			<p class="desc">Пиво прекрасно утоляет жажду, с богатой и мягкой умеренной хмелевой горечью. Сбалансированный и приятный вкус, хорошее послевкусие.</p>
-			<p class="alc">Содержание алкоголя: 4% (об.)</p>
-			<ul class="storage">
-				<li>
-					<img src="images/products/steiger/bottle.png">
-					<p>В стеклянной<br>бутылке</p>
-					<p class="time">360 суток</p>
-				</li>
-				<li>
-					<img src="images/products/steiger/tin_plate.png">
-					<p>В жестяной<br>банке</p>
-					<p class="time">360 суток</p>
-				</li>
-			</ul>
-			<img class="bottle" src="images/products/steiger/classic_big.png">
-			<img class="logo" src="images/products/steiger/steiger_logo.png">
-		</div>
-		<div class="element">
-			<h2>ПИВО Steiger PREMIUM Svetly 4.5% (оборот)</h2>
-			<p class="desc">Пиво прекрасно утоляет жажду, с богатой и мягкой умеренной хмелевой горечью. Сбалансированный и приятный вкус, хорошее послевкусие.</p>
-			<p class="alc">Содержание алкоголя: 4.5% (об.)</p>
-			<ul class="storage">
-				<li>
-					<img src="images/products/steiger/bottle.png">
-					<p>В стеклянной<br>бутылке</p>
-					<p class="time">360 суток</p>
-				</li>
-			</ul>
-			<img class="bottle" src="images/products/steiger/premium_sv_big.png">
-			<img class="logo" src="images/products/steiger/steiger_logo.png">
-		</div>
-		<div class="element">
-			<h2>ПИВО Steiger Free 0.5% (оборот)</h2>
-			<p class="desc">Вкусное безалкогольное пиво сделано из традиционных ингредиентов. Тонкий вкус с освежающей горечью особенно актуален при температуре 10°С. Без содержания алкоголя напиток подходит не только для водителей, но и для обычных напитков.</p>
-			<p class="alc">Содержание алкоголя: 0.5% (об.)</p>
-			<ul class="storage">
-				<li>
-					<img src="images/products/steiger/bottle.png">
-					<p>В стеклянной<br>бутылке</p>
-					<p class="time">240 суток</p>
-				</li>
-			</ul>
-			<img class="bottle" src="images/products/steiger/free_big.png">
-			<img class="logo" src="images/products/steiger/steiger_logo.png">
-		</div>
-		<div class="element">
-			<h2>ПИВО Steiger Free Dark 0.5% (оборот)</h2>
-			<p class="desc">Нам удалось объединить многовековые традиции с последней технологией пивоварения. Первоклассные ингредиенты, традиционные производственные процессы, позволяют создавать шедевр безалкогольного пива в темном цвете.</p>
-			<p class="alc">Содержание алкоголя: 0.5% (об.)</p>
-			<ul class="storage">
-				<li>
-					<img src="images/products/steiger/bottle.png">
-					<p>В стеклянной<br>бутылке</p>
-					<p class="time">240 суток</p>
-				</li>
-			</ul>
-			<img class="bottle" src="images/products/steiger/free_dark_big.png">
-			<img class="logo" src="images/products/steiger/steiger_logo.png">
-		</div>
+
   	</div>
 
   	<div class="steiger-history">

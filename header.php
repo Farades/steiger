@@ -41,13 +41,16 @@
 			<ul id="menu">
 				<li class="menu_not_spacer"><a class="header" href="index.php" data-pjax='pjax_container'>Главная</a></li>
 				<li class="menu_spacer"></li>
-				<li class="menu_not_spacer parrent"><a class="header" href="products.php" data-pjax='pjax_container'>Наша продукция</a>
+				<li class="menu_not_spacer parrent"><a class="header" data-pjax='pjax_container'>Наша продукция</a>
 					<ul>
 						<li><a>Пиво</a><i class="fa fa-long-arrow-right"></i>
 							<ul>
 								<li><a>Словакия</a><i class="fa fa-long-arrow-right"></i>
 									<ul>
 										<li><a href="steiger.php">Steiger</a></li>
+										<li><a href="radler.php">Steiger Radler</a></li>
+										<li><a href="stein.php">Stein</a></li>
+										<li><a href="special.php">Особые бренды</a></li>
 									</ul>
 								</li>
 								<li><a>Германия</a><i class="fa fa-long-arrow-right"></i>
